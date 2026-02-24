@@ -1,0 +1,15 @@
+name: beauty_store
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.10.8
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.1.0
+
+flutter:
+  uses-material-design: true
