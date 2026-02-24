@@ -52,7 +52,8 @@ Informasi yang ditampilkan:
 
 Pengguna dapat memilih produk dan menambahkannya ke dalam keranjang belanja.
 
-<img width="1080" height="2280" alt="image" src="https://github.com/user-attachments/assets/6180a995-c62c-4ba3-9000-edd80121a51b" />
+<img width="300" height="650" alt="image" src="https://github.com/user-attachments/assets/3c38df8a-bda4-4592-91fa-5b49c98b406d">
+
 
 
 ---
@@ -77,7 +78,7 @@ Pengguna dapat:
 
 Setiap perubahan quantity akan secara otomatis memperbarui total harga.
 
-<img width="1080" height="2280" alt="image" src="https://github.com/user-attachments/assets/dccadb29-7270-42e3-9218-158e03955dac" />
+<img width="300" height="650" alt="image" src="https://github.com/user-attachments/assets/0d8a4ab2-4257-43e5-b31c-8652d2280209" />
 
 ---
 
@@ -106,7 +107,7 @@ Tersedia form input untuk melengkapi data pemesan, antara lain:
 Tombol ini digunakan untuk menyelesaikan proses pemesanan. 
 Setelah tombol ditekan, sistem akan memproses pesanan sesuai dengan data yang telah diinput.
 
-<img width="1080" height="2280" alt="image" src="https://github.com/user-attachments/assets/f7c3ac5d-e59a-4551-8a7d-ca59b76792f1" />
+<img width="300" height="650" alt="image" src="https://github.com/user-attachments/assets/f7867047-1750-43f5-9f20-02eeb8b0add8" />
 
 
 
